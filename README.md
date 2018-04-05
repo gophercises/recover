@@ -1,4 +1,4 @@
-# Exercise #15: Panic/Recover Middleware
+# Exercise #14: Panic/Recover Middleware
 
 [![exercise status: in progress](https://img.shields.io/badge/exercise%20status-in%20progress-yellow.svg?style=for-the-badge)](https://gophercises.com/exercises/recover)
 
