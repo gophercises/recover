@@ -17,3 +17,7 @@ Given a simple web server (see `main.go`) that can potentially panic, create an 
 ## Bonus
 
 As a bonus exercises you can also look at ways to ensure you don't lose functionality like implementing the [http.Flusher](https://golang.org/pkg/net/http/#Flusher) or the [http.Hijacker](https://golang.org/pkg/net/http/#Hijacker) interfaces.
+
+## Useful links
+
+- <https://blog.golang.org/defer-panic-and-recover>
